@@ -1,9 +1,9 @@
 # Hello Data Nard! 🔰
-![I am seeking opportunity as a Data Analyst](https://wallpaperaccess.com/full/3959334.png)
+![I am seeking opportunity as a Data Analyst](https://cdn.sanity.io/images/tlr8oxjg/production/22c3b048689e6b8cd048157c7eb3c01cce769a41-1456x816.png?w=3840&q=80&fit=clip&auto=format)
 
 ## 👋, My name is Harun 
 
-### I am seeking opportunity as a Data Analyst 👩🏾‍💻
+### I am seeking opportunity as a Data Analyst 📊
 
 Here you will receive a glance at me as a data analyst. What is my strength about data? How I used some tools to understand insight about dirty data. 
 

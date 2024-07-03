@@ -16,9 +16,9 @@ Here you will receive a glance at me as a data analyst. What is my strength abou
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-- 🔭 I’m currently working on Data.
+- 🔭 I’m currently working on [Car_Sales_Data_Analysis_Project](https://github.com/harunrhimu/SQLProjects) 
 - 💬 Ask me about Data! 
-- 📫 How to reach me: harunrhimu@gmail.com 
+- 📫 How to reach me: voiceharun@gmail.com
 
 # The real one comming soon 🔰
 

@@ -1,4 +1,4 @@
-# Hello Data Nard! 🔰
+# Hello Data Geeks! 🔰
 ![I am seeking opportunity as a Data Analyst](https://cdn.sanity.io/images/tlr8oxjg/production/22c3b048689e6b8cd048157c7eb3c01cce769a41-1456x816.png?w=3840&q=80&fit=clip&auto=format)
 
 ## 👋, My name is Harun 

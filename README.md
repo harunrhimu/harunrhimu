@@ -1,10 +1,11 @@
 # Hello Data Geeks! 🔰
+
+
 ![I am seeking opportunity as a Data Analyst](https://cdn.sanity.io/images/tlr8oxjg/production/22c3b048689e6b8cd048157c7eb3c01cce769a41-1456x816.png?w=3840&q=80&fit=clip&auto=format)
 
 # About Me:
 
-## 👋 My name is Harun 
-
+## 👋 My name is Harun | I'm a self-taught passionate Data Analyst from 🇧🇩
 ### I am seeking opportunity as a Data Analyst 📊
 I have a bachelor in `Population Sciences`, Wait what? Population Sciences? How do you work in data analyst from populaiton sciences?
 
@@ -53,3 +54,17 @@ This statistics and social research help me to figure out `Data Analyst`. In `DA
 ## Under Construction 👷 
 ### Connect with me?
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/voiceharun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/voiceharun)  
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=harunrhimu&show_icons=true&theme=vision-friendly-dark">
+ </p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=harunrhimu&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+

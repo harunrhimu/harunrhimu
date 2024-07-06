@@ -16,7 +16,7 @@ Ok let's brakdown my bachelor syllabus that reflects my data analyst journey.
 
 This statistics and social research help me to figure out `Data Analyst`. In `DATA`, Statistics is required and social research tought me how to data impact in society. How research impact social change. In this field data driven decision is required from Government to big organization. So data driven storytelling is important also this field and this were achecived by me. With doing a Undergraduate Thesis which gives me a hands on experiences on `Statistics, Research and Data`. 
 
-
+*When I am committed to something, I accept no excuses*
 
 ## Tools and Technologies
 

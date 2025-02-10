@@ -21,10 +21,9 @@ These statistics and social research help me to figure out `Data Analyst`. In `D
 ## Tools and Technologies
 
 ### Languages:
-| Python3 |
+| Python3 | SQL
 |----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
-
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="55" height="55"/>
 
 ## My Tools for Data Manipulation & Visualisation
 

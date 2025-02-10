@@ -7,14 +7,14 @@
 
 ## 👋 My name is Harun | I'm a self-taught passionate Data Analyst from 🇧🇩
 ### I am seeking opportunity as a Data Analyst 📊
-I have a bachelor in `Population Sciences`, Wait what? Population Sciences? How do you work in data analyst from populaiton sciences?
+I have a bachelor's in `Population Sciences`, Wait what? Population Sciences? How do you work in data analysis from population sciences?
 
-Ok let's brakdown my bachelor syllabus that reflects my data analyst journey. 
+Ok, let's breakdown my bachelor syllabus that reflects my data analyst journey. 
 
-* I have strong foundation about `Statistics `and `Social Research` (later I will tell you how this work me as a data backbone).
-* Required `Data` to making decision in specific area. (like how is a particular issues sustain in our society doesn't know without research by Social Researcher)
+* I have a strong foundation in `Statistics `and `Social Research` (later I will tell you how this works as a data backbone).
+* Required `Data` to decide on a specific area. (like how a particular issue sustain in our society doesn't known without research by Social Researchers)
 
-This statistics and social research help me to figure out `Data Analyst`. In `DATA`, Statistics is required and social research tought me how to data impact in society. How research impact social change. In this field data driven decision is required from Government to big organization. So data driven storytelling is important also this field and this were achecived by me. With doing a Undergraduate Thesis which gives me a hands on experiences on `Statistics, Research and Data`. 
+These statistics and social research help me to figure out `Data Analyst`. In `DATA`, Statistics is required and social research taught me how data impacts society. How research impact social change. In this field, data-driven decisions are required from Government to big organizations. So data-driven storytelling is important also in this field and this were achieved by me. With doing an Undergraduate Thesis gives me hands-on experience in `Statistics, Research, and Data`. 
 
 *When I am committed to something, I accept no excuses*
 
@@ -27,15 +27,16 @@ This statistics and social research help me to figure out `Data Analyst`. In `DA
 
 ## Best Frameworks and Main Libraries for Python3
 
-| Numpy | Pandas |
+
 |----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> |
+
 
 ## My Tools for Data Manipulation & Visualisation
 
-| Jupyter | Postgres | Plotly | Matplotlib | Seaborn | Tableau |
+| Numpy | Pandas | Jupyter | Postgres | Plotly | Matplotlib | Seaborn | Tableau |
 |----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/> |
+
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/> |
 
 ## Code Editor
 

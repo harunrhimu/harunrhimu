@@ -27,25 +27,23 @@ These statistics and social research help me to figure out `Data Analyst`. In `D
 
 ## My Tools for Data Manipulation & Visualisation
 
-| Numpy | Pandas | Jupyter | Postgres | Plotly | Matplotlib | Seaborn | Tableau | Scikit-Learn | Excel |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" title="Excel" alt="Excel" width="55" height="55"/>
+| Numpy | Pandas | Postgres | Plotly | Matplotlib | Seaborn | Tableau | Scikit-Learn | Excel |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" title="Excel" alt="Excel" width="55" height="55"/>
 
 ## Code Editor
 
-| VS Code |
-|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> |
+| VS Code | Jupyter Notebook | 
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> |
 
 
+- 📫 Aspiring Data Analyst
+- 🔭 I’m currently working on [E-commerce Business Transaction]([https://github.com/harunrhimu/SQLProjects](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)) 
+- 💬 Ask [me](https://www.linkedin.com/in/harunrhimu/) about Data! 
+- 📫 How to reach me: harunrhimu@gmail.com
 
-- 🔭 I’m currently working on [Car_Sales_Data_Analysis_Project](https://github.com/harunrhimu/SQLProjects) 
-- 💬 Ask me about Data! 
-- 📫 How to reach me: voiceharun@gmail.com
 
-# The real one comming soon 🔰
-
-## Under Construction 👷 
 ### Connect with me?
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harunrhimu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/harunrhimu)  
 

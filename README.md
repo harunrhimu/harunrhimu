@@ -4,19 +4,28 @@
 ![I am seeking opportunity as a Data Analyst](https://cdn.sanity.io/images/tlr8oxjg/production/22c3b048689e6b8cd048157c7eb3c01cce769a41-1456x816.png?w=3840&q=80&fit=clip&auto=format)
 
 # About Me:
+🚀 Data Analyst | Business-Minded | Purpose-Driven
 
-## 👋 My name is Harun | I'm a self-taught passionate Data Analyst from 🇧🇩
-### I am seeking opportunity as a Data Analyst 📊
-I have a bachelor's in `Population Sciences`, Wait what? Population Sciences? How do you work in data analysis from population sciences?
+Hi, I’m Harun 👋 — a self-taught Data Analyst from 🇧🇩 with a background in Population Sciences and a passion for data with purpose.
 
-Ok, let's breakdown my bachelor syllabus that reflects my data analyst journey. 
+I specialize in transforming chaotic datasets into clean, actionable insights and decision-ready dashboards. With a strong foundation in statistics, social research, and programming, I focus on building robust data pipelines and analytical solutions that drive impact—whether for startups, product teams, or mission-aligned organizations.
 
-* I have a strong foundation in `Statistics `and `Social Research` (later I will tell you how this works as a data backbone).
-* Required `Data` to decide on a specific area. (like how a particular issue sustain in our society doesn't known without research by Social Researchers)
+🛠️ What I Do:
+- Clean, automate, and structure messy data (Python, SQL, Pandas)
+- Build KPI-focused dashboards (Tableau, Power BI, Looker Studio)
+- Conduct exploratory data analysis & trend forecasting
+- Translate raw data into business intelligence and insight
 
-These statistics and social research help me to figure out `Data Analyst`. In `DATA`, Statistics is required and social research taught me how data impacts society. How research impact social change. In this field, data-driven decisions are required from Government to big organizations. So data-driven storytelling is important also in this field and this were achieved by me. With doing an Undergraduate Thesis gives me hands-on experience in `Statistics, Research, and Data`. 
+📈 Key Projects:
+- Processed & optimized 9M+ unstructured records into clean, analysis-ready datasets
+- Uncovered publishing trends using authorship data & network analysis
+- Created dashboards that drive executive decisions and strategic planning
 
-*When I am committed to something, I accept no excuses*
+🌍 I’m on a mission to generate $1M+ in value from the data field over the next 5 years—investing my time and skills to support underrepresented communities and climate-vulnerable countries through data-driven solutions.
+
+💡 I believe in data that drives not just growth—but meaningful, global impact.
+
+🔗 Let’s connect & collaborate on purpose-driven analytics.
 
 ## Tools and Technologies
 
@@ -38,10 +47,6 @@ These statistics and social research help me to figure out `Data Analyst`. In `D
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> |
 
 
-- 📫 Aspiring Data Analyst
-- 🔭 I’m currently working on [E-commerce Business Transaction]([https://github.com/harunrhimu/SQLProjects](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data)) 
-- 💬 Ask [me](https://www.linkedin.com/in/harunrhimu/) about Data! 
-- 📫 How to reach me: harunrhimu@gmail.com
 
 
 ### Connect with me?
